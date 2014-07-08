@@ -1,4 +1,0 @@
-cmap
-====
-
-Compaction Heat Map
